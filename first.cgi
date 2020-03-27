@@ -5,6 +5,7 @@ echo "<html><head><title>Om Sai Ram omsairam"
 echo "</title></head><body>"
 
 echo "<h1>Hello world</h1>"
+echo "this is india"
 echo "Today is $(date)"
 echo "<h1>This is $(hostname)</h1>"
 
