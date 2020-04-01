@@ -10,5 +10,4 @@ echo "<h1>This is $(hostname)</h1>"
 
 echo "</body></html>"
 
-#This is testing
 
